@@ -1,4 +1,6 @@
 📊 Customer Behavior Analysis Project
+
+
 🔍 Overview
 
 This project focuses on analyzing customer behavior using an end-to-end data analytics workflow. It includes data loading, cleaning, exploratory data analysis (EDA), SQL-based querying, and interactive dashboard creation to generate actionable business insights.
@@ -8,6 +10,7 @@ This project focuses on analyzing customer behavior using an end-to-end data ana
 The dataset contains customer-related information such as purchasing behavior, preferences, and transactional details. It is used to identify patterns, trends, and key factors influencing customer decisions.
 
 🛠️ Tools & Technologies
+
 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning & EDA
 SQL (PostgreSQL / MySQL / SQL Server) – Data querying & analysis
 Power BI – Dashboard creation & visualization
@@ -19,8 +22,9 @@ EDA (Exploratory Data Analysis) – Analyzed trends, patterns, and relationships
 SQL Analysis – Wrote queries to extract key business insights
 Dashboard Creation – Built interactive Power BI dashboard
 Reporting – Summarized findings in report and presentation
-📊 Dashboard
 
+
+📊 Dashboard
 The Power BI dashboard provides:
 
 Customer segmentation insights
