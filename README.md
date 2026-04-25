@@ -25,6 +25,7 @@ Reporting – Summarized findings in report and presentation
 
 
 📊 Dashboard
+
 The Power BI dashboard provides:
 
 Customer segmentation insights
