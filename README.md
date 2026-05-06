@@ -1,4 +1,4 @@
-📊 Customer Behavior Analysis Project
+📊 Customer Shopping Behavior Analysis Project
 
 
 🔍 Overview
